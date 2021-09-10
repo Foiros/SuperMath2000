@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/Yliopisto toita/GitHub/Unreal/SuperMath2000/Trigonometry.cpp
+Trigonometry.h
+E:/Yliopisto toita/GitHub/Unreal/SuperMath2000/Trigonometry.h
+
+E:/Yliopisto toita/GitHub/Unreal/SuperMath2000/Trigonometry.h
+math.h
+-
+
